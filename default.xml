@@ -2,6 +2,7 @@
 <manifest>
     <remote name="Ancbie" fetch="https://github.com/Ancbie/" revision="master" />
     <project path="atl" name="android_translation_layer" groups="Ancbie" remote="Ancbie"/>
+    <project path="build" name="build" groups="Ancbie" remote="Ancbie"/>
     <project path="atl-gui" name="atl-gui" groups="Ancbie" remote="Ancbie"/>
     <project path="libopensles" name="libopensles-standalone" groups="Ancbie" remote="Ancbie" revision="known_working_desktop_build" clone-depth="1" />
     <project path="art" name="art_standalone" groups="Ancbie" remote="Ancbie" />
